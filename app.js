@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 require('dotenv').config();
 const db = require('./config/db');
 const authRoutes = require('./routes/authRoutes');
@@ -14,6 +15,10 @@ const errorMiddleware = require('./middlewares/errorMiddleware');
 
 // Middleware
 app.use(express.json());
+
+
+// Use CORS with default settings (allows all origins)
+app.use(cors());
 
 // Routes
 app.use('/api/auth', authRoutes);
