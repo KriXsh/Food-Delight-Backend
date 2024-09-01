@@ -26,3 +26,11 @@ Welcome to the backend for Food Delight, a fictional food ordering and delivery 
    ```bash
    git clone https://github.com/kriXsh/food-delight-backend.git
    cd food-delight-backend
+2. Set up environment variables by creating a .env file in the root of your project and adding the following:
+   DB_HOST=localhost
+   DB_USER=root
+   DB_PASS= # Replace this with your actual MySQL root password
+   DB_NAME= # Replace this with the actual database name you are using
+   DB_PORT= ####
+   JWT_SECRET=your_jwt_secret
+   PORT=3000
