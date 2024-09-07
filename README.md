@@ -2,7 +2,7 @@
 
 Welcome to the backend for Food Delight, a fictional food ordering and delivery service. This project serves as a robust backend system that powers interactions between users, restaurants, and delivery personnel.    
 
-## Features
+## Features  
 
 - **JWT Authentication**: Secure all routes with JWT, except for user signup and login.
 - **User Management**: User registration and login functionalities with password hashing.
