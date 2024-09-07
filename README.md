@@ -1,6 +1,6 @@
 # Food Delight Backend
 
-Welcome to the backend for Food Delight, a fictional food ordering and delivery service. This project serves as a robust backend system that powers interactions between users, restaurants, and delivery personnel.
+Welcome to the backend for Food Delight, a fictional food ordering and delivery service. This project serves as a robust backend system that powers interactions between users, restaurants, and delivery personnel.    
 
 ## Features
 
