@@ -11,7 +11,7 @@ Welcome to the backend for Food Delight, a fictional food ordering and delivery 
 - **Geocoding**: Simulate a geocoding service to find restaurants near a user's address.
 - **Payment Simulation**: Mock payment gateway integration with predefined success or failure.
 
-## Technologies Used
+## Technologies Used  
 
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web framework for Node.js.
